@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.global {
+  margin: 100px 100px;
+  background-color: slategrey;
+  padding: 20px;
+  height: 400px;
+}
+
+div {
+  height: 100px;
+  width: 200px;
+}
+
+.div1 {
+  background-color: aqua;
+}
+.div2 {
+  background-color: bisque;
+}
+.div3 {
+  background-color: teal;
+  padding: 5px;
+}
+.div4 {
+  background-color: violet;
+}
+.div5 {
+  background-color: yellow;
+}
